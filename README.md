@@ -17,6 +17,8 @@ The network consists of three routers connected in a triangular topology, provid
 - IPv4 addressing
 - Dynamic routing
 
+  ![Network Topology](Screenshots/01-Complete topology.png)
+
 ## 🔧 Technologies Used
 
 - Cisco Packet Tracer
