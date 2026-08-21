@@ -17,7 +17,7 @@ The network consists of three routers connected in a triangular topology, provid
 - IPv4 addressing
 - Dynamic routing
 
-  ![Network Topology](Screenshots/01-Complete topology.png)
+  ![Network Topology](Screenshots/01-Complete-Topology.png)
 
 ## 🔧 Technologies Used
 
